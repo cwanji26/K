@@ -1,4 +1,5 @@
-tep 1: Configure Docker
+
+Step 1: Configure Docker
 apt-get update
 apt-get -y install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
